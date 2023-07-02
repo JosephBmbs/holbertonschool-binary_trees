@@ -24,7 +24,9 @@ In this project, we explore the concept of binary trees and their various types.
 A binary tree is a hierarchical data structure composed of nodes, where each node has at most two children, referred to as the left child and the right child. Each node contains an integer value and pointers to its parent, left child, and right child.
 
 <p align="center">
-![Binary Tree Example](https://blog.penjee.com/wp-content/uploads/2015/11/binary-search-tree-insertion-animation.gif)</p>
+  <img src="https://blog.penjee.com/wp-content/uploads/2015/11/binary-search-tree-insertion-animation.gif" alt="Description of Image 1">
+</p>
+
 
 ## Binary Search Tree
 
