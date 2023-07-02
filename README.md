@@ -79,4 +79,4 @@ Contributions to this repository are welcome. If you find any issues or would li
 ------------------------------------------------------------------------------------------------------
 
 ## Authors
-This project Owner is -- Youssef Saad --
+ © Youssef Saad
