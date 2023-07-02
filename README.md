@@ -33,21 +33,25 @@ A binary tree is a hierarchical data structure composed of nodes, where each nod
 A binary search tree (BST) is a type of binary tree that follows a specific ordering property. In a BST, the value of every node in the left subtree is less than the value of the node, and the value of every node in the right subtree is greater than the value of the node. This property enables efficient searching, insertion, and deletion operations.
 
 <p align="center">
-![Binary Search Tree Example](https://d18l82el6cdm1i.cloudfront.net/uploads/jxTW76g4MR-traversal.gif)</p>
+  <img src="https://d18l82el6cdm1i.cloudfront.net/uploads/jxTW76g4MR-traversal.gif" alt="Description of Image 2">
+</p>
 
 ## AVL Tree
 
 An AVL tree is a self-balancing binary search tree. It maintains an additional balance factor for each node, which is the difference between the heights of its left and right subtrees. When an insertion or deletion operation causes the balance factor of a node to violate the AVL tree property, rotations are performed to restore balance.
 
 <p align="center">
-![AVL Tree Rotation](https://wkdtjsgur100.github.io/images/posts/rotation.gif)</p>
+  <img src="https://wkdtjsgur100.github.io/images/posts/rotation.gif" alt="Description of Image 3">
+</p>
+
 
 ## Max Binary Heap
 
 A max binary heap is a complete binary tree where the value of each node is greater than or equal to the values of its children. It is commonly used to implement priority queues and heap sort algorithms.
 
 <p align="center">
-![Max Binary Heap Example](https://esstudio.site/uploads/binaryheap.png)</p>
+  <img src="https://esstudio.site/uploads/binaryheap.png" alt="Description of Image 4">
+</p>
 
 ## Usage
 
