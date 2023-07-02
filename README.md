@@ -1,14 +1,9 @@
 
 <p align="center">
-  <img src="images/logo.png" alt="Project Logo">
+  <img src="https://blog.penjee.com/wp-content/uploads/2015/11/binary-search-tree-sorted-array-animation.gif" alt="Project Logo">
   <h1 align="center">Binary Trees</h1>
+  <h2 align="center">This repository contains the implementation of binary trees in C.</h2>
 </p>
-
-# Binary Trees 
-
-This repository contains the implementation of binary trees in C.
-
-![Binary Tree](https://blog.penjee.com/wp-content/uploads/2015/11/binary-search-tree-sorted-array-animation.gif)
 
 ## Table of Contents
 
