@@ -1,6 +1,10 @@
 
+<p align="center">
+  <img src="images/logo.png" alt="Project Logo">
+  <h1 align="center">Binary Trees</h1>
+</p>
 
-# Binary Trees
+# Binary Trees 
 
 This repository contains the implementation of binary trees in C.
 
